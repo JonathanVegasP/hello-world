@@ -1,0 +1,2 @@
+enum Routes {Home}
+
